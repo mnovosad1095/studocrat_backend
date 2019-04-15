@@ -1,0 +1,1 @@
+web: gunicorn stud_gov.wsgi
